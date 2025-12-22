@@ -60,3 +60,23 @@ pip install smbus2 --break-system-packages # Install smbus module if not already
 sudo raspi-config # Enable the I2C bus under "Interface Options"
 sudo apt install python3-rpi.gpio # Install gpio module system-wide
 ```
+
+## Support LXST Development
+You can help support the continued development of open, free and private communications systems by donating via one of the following channels:
+
+- Monero:
+  ```
+  84FpY1QbxHcgdseePYNmhTHcrgMX4nFfBYtz2GKYToqHVVhJp8Eaw1Z1EedRnKD19b3B8NiLCGVxzKV17UMmmeEsCrPyA5w
+  ```
+- Bitcoin
+  ```
+  bc1pgqgu8h8xvj4jtafslq396v7ju7hkgymyrzyqft4llfslz5vp99psqfk3a6
+  ```
+- Ethereum
+  ```
+  0x91C421DdfB8a30a49A71d63447ddb54cEBe3465E
+  ```
+- Liberapay: https://liberapay.com/Reticulum/
+
+- Ko-Fi: https://ko-fi.com/markqvist
+
